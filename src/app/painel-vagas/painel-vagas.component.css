@@ -1,0 +1,15 @@
+body {
+    background:  url('https://programathor.com.br/blog/wp-content/uploads/2018/08/recursos-gratuitos-para-programadores.jpg') no-repeat center center;
+    background-size: cover;    
+    height: 100vh;
+}
+
+.lista-vagas{
+    display: flex;
+    flex-direction: row;
+}
+
+.lista-vagas .card{
+    margin: 7vh 12vh;
+    min-height: 500px;
+}
